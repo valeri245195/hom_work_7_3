@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 1.1
+Summary: Very useful code
+Home-page: https://github.com/valeri245195/homework_7.1.git
+Author: Flying Circus
+Author-email: flyingcircus@example.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: markdown
